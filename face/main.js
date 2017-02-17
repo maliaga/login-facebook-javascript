@@ -1,6 +1,6 @@
 $(function() {
 
-	var app_id = '1745423325773134';
+// 	var app_id = '{id-facebook}';
 	var scopes = 'public_profile,email';
 
 	var btn_login = '<a href="#" id="login" class="btn btn-primary">Iniciar sesión</a>';
